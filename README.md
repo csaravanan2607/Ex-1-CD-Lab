@@ -13,6 +13,7 @@
 7.	To reach a variable, enter the variable to be searched and the symbol table has been checked for the corresponding variable, the variable along with its address is displayed as a result.
 8.	Stop the program. 
 # PROGRAM
+```
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
@@ -62,6 +63,7 @@ int main() {
     }
     return 0;
 }
+```
 # OUTPUT
 ![Screenshot 2024-10-08 090732](https://github.com/user-attachments/assets/ecd37b5b-6eba-4b57-9b4a-00c69a3c673b)
 # RESULT
