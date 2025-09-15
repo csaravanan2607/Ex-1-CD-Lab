@@ -1,6 +1,5 @@
 # Ex - 1 
 # Implementation Of Symbol Table
-# Name : Saravanan C
 # Register Number : 212222110041
 # Date : 1/9/25
 # Aim :
